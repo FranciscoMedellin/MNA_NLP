@@ -1,0 +1,28 @@
+Ok ahora toma contexto para la actividad por hacer, la haremos paso a paso de acuerdo a mi ritmo, 
+a este momento contestame con un "analizado", cuando termines de analyzar el contenido.
+
+
+2.3 Actividad 1 | Procesamiento de texto
+
+Desarrolla esta actividad siguiendo las siguientes indicaciones y que te permitirán familiarizarte con las primeras etapas del preprocesamiento de los datos en un problema de NLP. Los datos muestran información de tweets de usuarios en una cuenta de twitter en español:  
+
+
+
+Te dare Descarga el archivo de JupyterNotebook MNA_NLP_semana_02_Actividad.ipynb 
+
+
+En esta actividad deberás utilizar los datos del siguiente archivo de texto: MNA_NLP_semana_02_Actividad_datos.txt
+ 
+Sigue las indicaciones de las 4 partes dentro del archivo de JupyterNotebook para realizar la actividad de esta semana.
+
+Me ayudaras a completar el notebook, las actividades que se indican. Paso a paso. No te adelantes en entregarme un notebook ipynb, mejor ayudame paso a paso de acuerdo a lo que te indique.
+
+
+
+
+
+Hola ahora siguamos con la pregunta 3 de la parte 1
+
+Busca e imprime todas las palabras que están escritas totalmente en mayúsculas. Cada coincidencia debe ser una sola palabra.
+
+Indica cuántas palabras encontraste.
